@@ -1,0 +1,30 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+
+# Visual Studio
+.vs/
+*.sln.docstates
+*.user
+*.userosscache
+*.sln.cache
+
+# ReSharper
+.idea/
+*.resharer
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# User-specific files
+appsettings.local.json
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
