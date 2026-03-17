@@ -4,7 +4,7 @@ class Director
     private string lastName;
     private string country;
 
-    public string? GetFirstName()
+    public string GetFirstName()
     {
         return firstName;
     }
